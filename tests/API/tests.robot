@@ -2,7 +2,7 @@
 Documentation     REST API testing.
 Library           RequestsLibrary
 Library           ../../resources/Converter.py
-Library           JsonLibrary
+Library            JSONLibrary
 
 *** Variables ***
 ${URL}    https://jsonplaceholder.typicode.com
